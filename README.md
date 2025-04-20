@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 })
 ```
+
+```bash
+https://github.com/hxezu/React-19-_TailwindCSS_StarterPack.git . 
+rm -rf .git
+npm install 
+```
